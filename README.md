@@ -1,26 +1,40 @@
-# Produtividade Instantânea
 
-Plataforma de curso gamificado sobre produtividade com NotionAI e Canva AI.
+# Produtividade Instantânea 🚀
 
-## Configuração
+**Plataforma de curso gamificado** que une NotionAI e Canva AI para transformar sua rotina em um **fluxo visual**, divertido e altamente produtivo.
 
-1. Clone o repositório
-2. Instale as dependências: `npm install`
-3. Configure as variáveis de ambiente (crie um arquivo `.env.local`):
-   ```
-   NEXTAUTH_URL=http://localhost:3000
-   NEXTAUTH_SECRET=your-secret-here
-   SUPABASE_URL=your-supabase-url
-   SUPABASE_KEY=your-supabase-key
-   NOTION_TOKEN=your-notion-token
-   NOTION_DATABASE_ID=your-notion-database-id
-   ```
-4. Execute o projeto: `npm run dev`
+---
 
-## Estrutura
+## 🎯 Visão Geral
 
-- Frontend: Next.js + TypeScript + Tailwind CSS
-- Backend: Next.js API Routes
-- Banco de Dados: Supabase
-- Autenticação: NextAuth.js
-- CMS: Notion API
+- **Objetivo:** ensinar métodos visuais de organização e automação, em módulos desbloqueáveis, com XP, streaks e badges.  
+- **Público-alvo:** profissionais e estudantes que querem economizar horas por semana.  
+- **Experiência:** estilo “Duolingo” de aprendizado — rápido, gamificado e motivador.
+
+---
+
+## 🚀 Funcionalidades Principais
+
+1. **Módulos Estruturados**  
+   - Módulo 1: Mindset & Setup  
+   - Módulo 2: Templates NotionAI  
+   - Módulo 3: Design com Canva AI  
+   - …  
+
+2. **Gamificação**  
+   - Ganhe XP ao concluir lições  
+   - Mantenha streaks diários  
+   - Desbloqueie badges exclusivos  
+
+3. **Automação & Integração**  
+   - Templates prontos no Notion  
+   - Exportação de dashboards visuais  
+   - Lembretes e resumos automáticos  
+
+4. **Deploy Estático**  
+   - Export para GitHub Pages via `next export` → `docs/`  
+
+---
+
+## 📁 Estrutura do Repositório
+
